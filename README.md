@@ -18,6 +18,8 @@ https://bobbyhadz.com/blog/disable-red-wavy-underline-in-vscode
 
 6 - Visual Studio Code - keyboard-shortcuts WINDOWS & MAC
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+
+6 - Visual Studio Code - keyboard-shortcuts MAC
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 
 7 - Making HTTP API calls with Axios in React Native
