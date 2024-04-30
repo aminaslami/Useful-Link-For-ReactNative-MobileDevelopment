@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=bYPT3s-5ago
 5 - How to Disable the red wavy Underline in Visual Studio Code
 https://bobbyhadz.com/blog/disable-red-wavy-underline-in-vscode
 
-6 - Visual Studio Code - keyboard-shortcuts WINDOWS & MAC
+6 - Visual Studio Code - keyboard-shortcuts WINDOWS
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
 6 - Visual Studio Code - keyboard-shortcuts MAC
