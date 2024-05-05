@@ -38,6 +38,16 @@ https://www.npmjs.com/package/react-native
 https://github.com/facebook/react-native
 
 12 - REACT NATIVE - FIREBASE
+https://rnfirebase.io/
+
+13 - REACT NATIVE - FIREBASE - Json
+https://rnfirebase.io/app/json-config
+
+14 - Mastering JSON in ReactJS
+https://www.tamalweb.com/json-reactjs
+
+
+
 
 
 
