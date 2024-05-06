@@ -46,9 +46,14 @@ https://rnfirebase.io/app/json-config
 14 - Mastering JSON in ReactJS
 https://www.tamalweb.com/json-reactjs
 
+15 - React Hooks
+https://react.dev/reference/react/hooks
 
+16 - Custom Hooks
+https://react.dev/learn/reusing-logic-with-custom-hooks
 
+17 - Context
+https://react.dev/reference/react/createContext
 
-
-
-
+18 - sdkman - SDK Installation
+https://sdkman.io/install
