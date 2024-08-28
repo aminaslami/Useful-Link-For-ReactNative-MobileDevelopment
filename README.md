@@ -27,7 +27,6 @@ https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 https://reactnativespace.com/tutorials/making-http-api-calls-with-axios-in-react-native
 
 ---------------------------------------------------------------------------
-
 9 - Fetch Rest API
 https://www.youtube.com/watch?v=NuKQk7nbk0k
 
