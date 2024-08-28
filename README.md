@@ -34,7 +34,6 @@ https://www.youtube.com/watch?v=NuKQk7nbk0k
 https://reactnative.dev/docs/network
 
 ----------------------------------------------------------------------------
-
 10 - NPM - JS TypeScript
 https://www.npmjs.com/package/react-native
 
